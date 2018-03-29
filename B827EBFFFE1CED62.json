@@ -1,0 +1,18 @@
+{ 
+	"gateway_conf": { 
+		"gateway_ID": "B827EBFFFE1CED62"
+		"servers": [ 
+			{ 
+				"server_address": "thethings.meshed.com.au", 
+				"serv_port_up": 1700, 
+				"serv_port_down": 1700, 
+				"serv_enabled": true 
+			} 
+		], 
+		"ref_latitude": -27.565876,
+		"ref_longitude": 152.937062,
+		"ref_altitude": 9,
+		"contact_email": "lora@accelerando.com.au", 
+		"description": "Accelerando Consulting, IoT Research and Development" 
+	} 
+} 
